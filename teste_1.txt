@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 Alterado no browser
-=======
-Alterado local
->>>>>>> Stashed changes
